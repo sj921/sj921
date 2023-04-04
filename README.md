@@ -55,6 +55,7 @@
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj921&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=sj921&show_icons=true">
+	<br>
 	![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=sj921)
 </div>
 
