@@ -42,7 +42,7 @@
 
 <div align=center>
 	<a href="https://sj921.tistory.com/">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<a href="https://mewing-caption-b66.notion.site/IT_-cc19cf47adea452dae0615c6df940be2">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
@@ -50,9 +50,12 @@
 	<br>
 </div>
 
+<br>
 
-
-
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj921&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=sj921&show_icons=true">
+</div>
 
 
 
