@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Susie%20Github!&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=FDEE21&height=200&section=header&text=Susie%20Github!&fontSize=90&fontColor=FFFFFF" />
 </div>
 
 <div align=center>
@@ -37,7 +37,7 @@
 <br>
 
 <div align=center>
-	<p>🎨 SNS 🎨</p>
+	<p>🌱 SNS 🌱</p>
 </div>
 
 <div align=center>
@@ -53,10 +53,17 @@
 <br>
 
 <div align=center>
+	<!--https://github.com/kyechan99/capsule-render-->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj921&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=sj921&show_icons=true">
 	<br>
-	![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=sj921)
+
+</div>
+
+<br>
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=FDEE21&height=200&section=footer" />
 </div>
 
 
@@ -64,19 +71,8 @@
 
 
 
-
-
 <!--
-**sj921/sj921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 리드미 위젯 : https://github.com/anuraghazra/github-readme-stats
+- 헤더, 푸터 : https://github.com/kyechan99/capsule-render
+- 
 -->
