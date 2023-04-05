@@ -52,13 +52,6 @@
 
 <br>
 
-<div align=center>
-	<!--https://github.com/kyechan99/capsule-render-->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj921&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=sj921&show_icons=true">
-	<br>
-
-</div>
 
 <br>
 
