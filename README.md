@@ -49,7 +49,17 @@
 	<br>
 </div>
 
-<br>
+<br><br><br>
+
+<div align=center>
+	<a href="https://github.com/sj921/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj921" />
+	</a>
+	<br><br>
+	<a href="https://github.com/sj921/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sj921" />
+	</a>
+</div>
 
 
 <br>
@@ -62,9 +72,9 @@
 
 
 
-
 <!--
 - 리드미 위젯 : https://github.com/anuraghazra/github-readme-stats
 - 헤더, 푸터 : https://github.com/kyechan99/capsule-render
-- 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj921)](https://github.com/sj921/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj921)](https://github.com/sj921/github-readme-stats)
 -->
